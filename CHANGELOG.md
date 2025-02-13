@@ -5,6 +5,10 @@ By far most changes relate to `atomic-server`, so if not specified, assume the c
 **Changes to JS assets (including the front-end and JS libraries) are not shown here**, but in [`/browser/CHANGELOG`](/browser/CHANGELOG.md).
 See [STATUS.md](server/STATUS.md) to learn more about which features will remain stable.
 
+## UNRELEASED
+
+- CLI should use Agent in requests - get #986
+
 ## [v0.40.2]
 
 - fix property sort order when importing + add tests #980
